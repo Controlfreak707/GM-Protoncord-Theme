@@ -1,0 +1,14 @@
+{
+  "main": "src/index.js",
+  "version": "0",
+
+  "name": "Protoncord Theme",
+  "authors": ["491262066813042698"],
+  "description": "A sleek, modern UI inspired by the layout of ProtonVPN.",
+  "images": [
+    "https://raw.githubusercontent.com/Controlfreak707/GM-Protoncord-Theme/main/images/image-a.png",
+    "https://raw.githubusercontent.com/Controlfreak707/GM-Protoncord-Theme/main/images/image-b.png",
+    "https://raw.githubusercontent.com/Controlfreak707/GM-Protoncord-Theme/main/images/image-c.png"
+  ],
+  "tags": ["themes"]
+}
